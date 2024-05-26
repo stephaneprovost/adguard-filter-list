@@ -1,1 +1,3 @@
 quillbot.com
+openai.com
+poe.com

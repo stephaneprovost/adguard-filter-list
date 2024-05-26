@@ -1,7 +1,9 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-26T10:12:48.737Z
+! Last modified: 2024-05-26T10:26:58.200Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 ||quillbot.com^
+||openai.com^
+||poe.com^
