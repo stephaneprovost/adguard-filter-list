@@ -2,3 +2,5 @@ quillbot.com
 openai.com
 poe.com
 youtube.com
+redditstatic.com
+reddit.com
