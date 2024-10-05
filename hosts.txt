@@ -4,3 +4,4 @@ poe.com
 youtube.com
 redditstatic.com
 reddit.com
+scratch.mit.edu
