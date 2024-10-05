@@ -1,3 +1,4 @@
 quillbot.com
 openai.com
 poe.com
+youtube.com
