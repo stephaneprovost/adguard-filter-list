@@ -5,3 +5,4 @@ youtube.com
 redditstatic.com
 reddit.com
 scratch.mit.edu
+upload.wikimedia.org
