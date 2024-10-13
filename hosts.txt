@@ -4,3 +4,4 @@ poe.com
 redditstatic.com
 reddit.com
 scratch.mit.edu
+lequipe.fr

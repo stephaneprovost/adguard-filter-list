@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-12T14:19:05.815Z
+! Last modified: 2024-10-13T13:42:43.432Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,3 +10,4 @@
 ||redditstatic.com^
 ||reddit.com^
 ||scratch.mit.edu^
+||lequipe.fr^
