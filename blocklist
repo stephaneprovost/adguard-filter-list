@@ -1,9 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-28T21:07:59.368Z
+! Last modified: 2025-06-20T07:54:01.604Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 ||quillbot.com^
 ||scratch.mit.edu^
 ||lequipe.fr^
+||xalaflix.io^
+||xalaflix.fr^
