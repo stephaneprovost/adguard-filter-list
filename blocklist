@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-06-20T07:54:01.604Z
+! Last modified: 2025-09-27T10:01:28.745Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -9,3 +9,5 @@
 ||lequipe.fr^
 ||xalaflix.io^
 ||xalaflix.fr^
+||yandex.ru^
+|*.ru^
